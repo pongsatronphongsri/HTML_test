@@ -1,0 +1,1229 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.body {
+    font-family: Arial, sans-serif;
+    background: #FFFFFF;
+    width: 1440px;
+    height: 3860px;
+
+}
+
+.container {
+    position: absolute;
+    background-blend-mode: soft-light;
+    width: 1140px;
+    height: 821px;
+    left: 148.31px;
+    right: 151.69px;
+    top: 0px;
+
+    background-image: linear-gradient(13deg, #0E044B 3.43%, #2C309B 52.94%, #89E8FD 100%);
+
+
+}
+
+
+.navbar-brand {
+    position: absolute;
+    font-family: sans-serif;
+    left: 4.15%;
+    right: 50.48%;
+    top: 6.67%;
+    bottom: 74.3%;
+    color: #FFF;
+}
+
+.for h3 {
+    background: linear-gradient(176deg, #14DB60 0%, #AAFFCB 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.for h1 {
+    background: linear-gradient(176deg, #14DB60 0%, #AAFFCB 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.date h1 {
+    display: inline-block;
+    color: #FCFDFF;
+    width: 52.75px;
+    height: 32.05px;
+    top: 318px;
+    left: 50.40px;
+    font-weight: bold;
+
+}
+
+.date span {
+    display: inline-block;
+    font-size: 50%;
+
+    top: 332.48px;
+    left: 114.55px;
+    font-weight: bold;
+
+}
+
+
+/*test*/
+
+.img_cover {
+    position: absolute;
+    width: 404px;
+    height: 654px;
+    top: 77px;
+    left: 737px;
+    border-radius: 0px 0px 0px 12px;
+
+}
+
+/* Rectangle 136 */
+.rectangle_136 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 0.19%;
+    right: -72.41%;
+    top: -11.75%;
+    bottom: -14.61%;
+    opacity: 0.2;
+}
+
+/* Rectangle 137 */
+.rectangle_137 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 0.19%;
+    right: -72.41%;
+    top: -9.09%;
+    bottom: -17.27%;
+    opacity: 0.2;
+}
+
+/* Rectangle 139 */
+.rectangle_139 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 0.19%;
+    right: -72.41%;
+    top: -6.33%;
+    bottom: -20.04%;
+    opacity: 0.2;
+}
+
+/* Rectangle 140 */
+.rectangle_140 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 0.19%;
+    right: -72.41%;
+    top: -3.31%;
+    bottom: -23.05%;
+    opacity: 0.2;
+}
+
+/* Rectangle 134 */
+.rectangle_134 {
+    position: absolute;
+    left: 0.27%;
+    right: -63.3%;
+    top: -11.82%;
+    bottom: -11.69%;
+    background: url(medical-banner-with-doctor-wearing-coat.jpg);
+    mix-blend-mode: normal;
+
+}
+
+/* Rectangle 141 */
+.rectangle_141 {
+    position: absolute;
+    left: 0%;
+    right: -63.3%;
+    top: -11.82%;
+    bottom: -11.69%;
+    background: linear-gradient(47.03deg, rgba(16, 22, 104, 0) 32.04%, rgba(24, 28, 117, 0) 37.36%, rgba(60, 220, 150, 0) 48.67%, rgba(63, 236, 153, 0.17) 63.16%, #57FF7C 76.34%);
+    mix-blend-mode: color;
+
+}
+
+/* Rectangle 142 */
+.rectangle_142 {
+    position: absolute;
+    left: 0.04%;
+    right: -63.3%;
+    top: -11.96%;
+    bottom: -11.69%;
+    background: linear-gradient(202deg, rgba(255, 255, 255, 0.00) 63.99%, rgba(127, 165, 221, 0.67) 82.53%, #031689 100%);
+    ;
+    mix-blend-mode: normal;
+    opacity: 0%;
+
+}
+
+.text {
+
+    font-size: 18px;
+    font-weight: bold;
+    width: 329.295px;
+    height: 17.443px;
+    left: 150px;
+    background: linear-gradient(176deg, #14DB60 0%, #AAFFCB 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.rectangle {
+    width: 150.27px;
+    height: 25.86px;
+    top: 363.51px;
+    left: 47.30px;
+    font-weight: bold;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background: #FFFFFF;
+
+
+
+
+
+}
+
+.rectangle p {
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    color: #100751;
+
+
+
+
+}
+
+.date h2 {
+    width: 10.53px;
+    height: 100px;
+    color: #0CC553;
+
+
+
+}
+
+.pont_text {
+    font-size: 13px;
+    width: 296.995px;
+    height: 17.007px;
+    flex-shrink: 0;
+    color: #FFF;
+    margin-left: 35px;
+    font-weight: normal;
+
+}
+
+.thai_text p {
+    width: 555px;
+    color: #FFF;
+    font-family: Noto Sans Thai;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    /* 192.857% */
+    letter-spacing: 0.28px;
+}
+
+.thai_semi {
+    color: #BAD0F2;
+    font-family: Noto Sans Thai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 20px;
+    /* 105.263% */
+
+}
+
+.img_background {
+    position: relative;
+    padding-top: 290px;
+    opacity: 0.5;
+    background-image: linear-gradient(13deg, #0E044B 3.43%, #2C309B 52.94%, #89E8FD 100%);
+    mix-blend-mode: soft-light;
+    box-sizing: border-box;
+
+}
+
+.img_background img {
+    width: 1140px;
+    height: 348px;
+    flex-shrink: 0;
+    margin-left: 0;
+
+}
+
+.logo_clicknext {
+    margin-top: -75px;
+    margin-left: 45px;
+    color: #FCFEFF;
+
+}
+
+.logo_poster2 {
+
+    margin-top: -29px;
+    margin-left: 200px;
+
+}
+
+.logo_poster2_1 {
+
+    margin-top: -30px;
+    margin-left: 240px;
+
+
+}
+
+.logo_sangfor {
+    margin-top: -30px;
+    margin-left: 330px;
+}
+
+.logo_vrcomm {
+    margin-top: -30px;
+    margin-left: 465px;
+}
+
+.logo_t-reg {
+    margin-top: -30px;
+    margin-left: 485px;
+}
+
+.logo_lenovo {
+    margin-top: -30px;
+    margin-left: 610px;
+}
+
+.logo_metro {
+    margin-top: -30px;
+    margin-left: 740px;
+}
+
+.text_fow h3 {
+    position: relative;
+    color: #FFF;
+    font-family: Noto Sans Thai;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 17px;
+    letter-spacing: 0.52px;
+    text-align: center;
+    margin-bottom: 1px;
+    top: 90px;
+}
+
+.text_fow span {
+    font-weight: 400;
+    font-family: Thai;
+    color: #BAD0F2;
+    font-size: 18px;
+}
+
+.text_fow p {
+    font-size: 15px;
+    text-align: center;
+    color: #BAD0F2;
+    ;
+
+}
+
+.btn_register {
+    position: absolute;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 10px 70px;
+    border: none;
+    color: white;
+    background: linear-gradient(177deg, #0BB64C 0%, #27D96B 100%);
+    cursor: pointer;
+    bottom: 40px;
+    left: 500px;
+    text-decoration: none;
+
+}
+
+.Title_text {
+    color: #1D1A73;
+    font-family: Noto Sans Thai;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0.36px;
+    top: 40px;
+    left: 30px;
+    margin-top: 230px;
+
+}
+
+.Title_text span {
+    color: #0CC553;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 54px;
+    letter-spacing: 0.36px;
+}
+
+.rotated-element {
+    position: absolute;
+    background: #25DF6C;
+    width: 10.933px;
+    height: 10.933px;
+    transform: rotate(-45deg);
+    flex-shrink: 0;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.text1 {
+    margin: 20px;
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.rectangle-text {
+    margin-top: 100px;
+    width: 8px;
+    height: 44px;
+    flex-shrink: 0;
+    background: #25DF6C;
+}
+
+.rec-text {
+    padding-top: 12px;
+    margin: 30px;
+    width: 250px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    background: linear-gradient(179deg, #0E044B 0%, #2C309B 54.45%, #89E8FD 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.iamge-group {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.background-img {
+    position: relative;
+    display: inline-block;
+}
+
+.background-img img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.img_speaker {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.img_speaker img {
+    display: block;
+    width: 145.705px;
+    height: 186.918px;
+}
+
+.description {
+    color: #1F2883;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    /* 58.333% */
+    margin-top: 10px;
+   margin-left: -30px;
+}
+
+.des1 {
+    color: #359EFF;
+    font-family: Noto Sans Thai;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    /* 111.111% */
+    letter-spacing: -0.18px;
+    margin-top: 10px;
+    margin-left: -45px;
+}
+
+.des2 {
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 141.176% */
+    margin-top: -25px;
+    margin-left: -48px;
+}
+
+/*pic2*/
+.iamge-group2 {
+    position: relative;
+    margin-left: 520px;
+    margin-top: -280px;
+}
+
+.background-img2 {
+    position: relative;
+    display: inline-block;
+}
+
+.background-img2 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.img_speaker2 {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.img_speaker2 img {
+    display: block;
+    width: 127.181px;
+    height: 175.565px;
+    flex-shrink: 0;
+}
+
+.description2 {
+    color: #1F2883;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    /* 58.333% */
+    margin-top: 10px;
+    margin-left: -80px;
+}
+
+.des1-2 {
+    color: #359EFF;
+    font-family: Noto Sans Thai;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    /* 111.111% */
+    letter-spacing: -0.18px;
+    margin-top: 10px;
+    margin-left: -60px;
+}
+
+.des2-2 {
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 141.176% */
+    margin-top: -25px;
+    margin-left: -48px;
+}
+
+/*pic3*/
+.iamge-group3 {
+    position: relative;
+    margin-left: 900px;
+    margin-top: -240px;
+}
+
+.background-img3 {
+    position: relative;
+    display: inline-block;
+}
+
+.background-img3 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.img_speaker3 {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.img_speaker3 img {
+    display: block;
+    width: 127.181px;
+    height: 175.565px;
+    flex-shrink: 0;
+}
+
+.description3 {
+    color: #1F2883;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    /* 58.333% */
+    margin-top: 10px;
+    margin-left: -100px;
+}
+
+.des1-3 {
+    color: #359EFF;
+    font-family: Noto Sans Thai;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    /* 111.111% */
+    letter-spacing: -0.18px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.des2-3 {
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 141.176% */
+    margin-top: -25px;
+    margin-left: -20px;
+}
+
+/*pic4*/
+.iamge-group4 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.background-img4 {
+    position: relative;
+    display: inline-block;
+}
+
+.background-img4 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.img_speaker4 {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.img_speaker4 img {
+    display: block;
+    width: 145.705px;
+    height: 186.918px;
+}
+
+.description4 {
+    color: #1F2883;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    /* 58.333% */
+    margin-top: 10px;
+    margin-left: -60px;
+}
+
+.des1-4 {
+    color: #359EFF;
+    font-family: Noto Sans Thai;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    /* 111.111% */
+    letter-spacing: -0.18px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.des2-4 {
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 141.176% */
+    margin-top: -25px;
+    margin-left: 20px;
+}
+
+/*pic5*/
+.iamge-group5 {
+    position: relative;
+    margin-left: 520px;
+    margin-top: -260px;
+}
+
+.background-img5 {
+    position: relative;
+    display: inline-block;
+}
+
+.background-img5 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.img_speaker5 {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.img_speaker5 img {
+    display: block;
+    width: 127.181px;
+    height: 175.565px;
+    flex-shrink: 0;
+}
+
+.description5 {
+    color: #1F2883;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    /* 58.333% */
+    margin-top: 10px;
+    /* ระยะห่างระหว่างรูปกับ description */
+    margin-left: -80px;
+}
+
+.des1-5 {
+    color: #359EFF;
+    font-family: Noto Sans Thai;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    /* 111.111% */
+    letter-spacing: -0.18px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.des2-5 {
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 141.176% */
+    margin-top: -25px;
+    margin-left: 10px;
+}
+
+/*pic6*/
+.iamge-group6 {
+    position: relative;
+    margin-left: 900px;
+    margin-top: -290px;
+}
+
+.background-img6 {
+    position: relative;
+    display: inline-block;
+}
+
+.background-img6 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.img_speaker6 {
+    position: absolute;
+    bottom: 0;
+    /* จัดตำแหน่งด้านล่างของ .background-img */
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.img_speaker6 img {
+    display: block;
+    width: 127.181px;
+    height: 175.565px;
+    flex-shrink: 0;
+}
+
+.description6 {
+    color: #1F2883;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    /* 58.333% */
+    margin-top: 10px;
+    /* ระยะห่างระหว่างรูปกับ description */
+    margin-left: -50px;
+}
+
+.des1-6 {
+    color: #359EFF;
+    font-family: Noto Sans Thai;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    /* 111.111% */
+    letter-spacing: -0.18px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.des2-6 {
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 141.176% */
+    margin-top: -25px;
+    margin-left: 40px;
+}
+
+.rectangle-time {
+    width: 305px;
+    height: 44px;
+    margin-top: 60px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    background: #0CC553;
+    color: #FFF;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0.24px;
+
+
+}
+
+.text2 {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    /* 47.826% */
+}
+
+.rotated-element2 {
+    position: absolute;
+    background: #25DF6C;
+    width: 10.933px;
+    height: 10.933px;
+    transform: rotate(-45deg);
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.rectangle-time2 {
+    width: 200px;
+    height: 44px;
+    margin-top: 60px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    background: #0CC553;
+    color: #FFF;
+    font-family: Noto Sans Thai;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0.24px;
+
+
+}
+
+.text3 {
+    width: 505px;
+    height: 11px;
+    margin-left: 70%;
+    position: absolute;
+    color: #262E3F;
+    font-family: Noto Sans Thai;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 11px;
+    /* 47.826% */
+
+}
+
+.room-map {
+    width: 1084px;
+    height: 290px;
+    top: 2822px;
+    left: 149px;
+    border-radius: 20px;
+    margin-top: 50px;
+    background: linear-gradient(183deg, #5D97E3 0%, #0C2192 100%);
+    align-items: center;
+
+}
+
+.room-map h1 {
+    padding-top: -10px;
+    padding-left: 150px;
+    color: #FFF;
+    font-family: Noto Sans Thai;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    /* 31.579% */
+
+
+}
+
+.room-map h2 {
+    padding-left: 150px;
+    color: #FFF;
+    font-family: Noto Sans Thai;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 59px;
+    /* 184.375% */
+    letter-spacing: 0.32px;
+}
+
+.locationpic {
+    padding-top: 70px;
+    padding-left: 50px;
+    width: 81.656px;
+    height: 81.656px;
+    flex-shrink: 0;
+}
+
+.locationbtn {
+    width: 344px;
+    height: 68px;
+    margin-left: 150px;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 45px;
+    background: #359EFF;
+    color: #FFF;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0.24px;
+
+
+}
+
+.Grandroom {
+    position: absolute;
+    margin-top: -240px;
+    padding-left: 750px;
+    width: 304px;
+    height: 250px;
+    flex-shrink: 0;
+    opacity: 0.7;
+    filter: drop-shadow(0px 2px 20px rgba(65, 115, 174, 0.25));
+
+}
+
+.rewardtotal {
+    width: 1084px;
+    height: 345px;
+    top: 345px;
+    left: 1109px;
+    border: 2px;
+    opacity: 0.69px;
+
+
+}
+
+.rec-text2 {
+    font-family: Poppins;
+    font-size: 32px;
+    padding: 80px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    /* 68.75% */
+    background: linear-gradient(179deg, #0E044B 0%, #2C309B 54.45%, #89E8FD 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.img-gift {
+    width: 63.856px;
+    height: 72.819px;
+    flex-shrink: 0;
+    margin-left: 75px;
+}
+
+.sub1 {
+    color: #262E3F;
+    margin-top: 20px;
+    margin-left: 75px;
+    font-family: Poppins;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
+    /* 53.846% */
+    letter-spacing: -0.26px;
+}
+
+.sub2 {
+    color: #6F7788;
+    margin-left: 75px;
+    font-family: Noto Sans Thai;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
+    /* 63.636% */
+    letter-spacing: 0.44px;
+}
+
+.img-gift2 {
+    width: 70.424px;
+    height: 78.9px;
+    transform: rotate(7.435deg);
+    flex-shrink: 0;
+    margin-left: 40%;
+    margin-top: -182px;
+}
+
+.sub1-2 {
+    color: #262E3F;
+    margin-top: 20px;
+    margin-left: 40%;
+    font-family: Poppins;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
+    /* 53.846% */
+    letter-spacing: -0.26px;
+}
+
+.sub2-2 {
+    color: #6F7788;
+    margin-left: 40%;
+    font-family: Noto Sans Thai;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
+    /* 63.636% */
+    letter-spacing: 0.44px;
+}
+
+.img-gift3 {
+    width: 169px;
+    height: 27.206px;
+    flex-shrink: 0;
+    margin-left: 80%;
+    margin-top: -150px;
+}
+
+.sub1-3 {
+    color: #262E3F;
+    font-family: Poppins;
+    margin-top: 40px;
+    margin-left: 850px;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
+    /* 53.846% */
+    letter-spacing: -0.52px;
+}
+
+.sub2-3 {
+    color: #6F7788;
+    margin-left: 80%;
+    font-family: Noto Sans Thai;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px;
+    /* 63.636% */
+    letter-spacing: 0.44px;
+}
+
+.footer {
+    width: 1540px;
+    height: 220px;
+    flex-shrink: 0;
+   
+}
+.rec-text3{
+    
+    color: #0C2292;
+    margin-left: 300px;
+    margin-top: 100px;
+    font-family: Noto Sans Thai;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px; /* 65.385% */
+    letter-spacing: 0.52px;
+    
+}
+
+.rec-text3 span {
+    
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    color: #6E7788;
+    
+   
+    /* 70.833% */
+}
+.footer-text{
+    color: #262E3F;
+    margin-left:-80px ;
+    font-family: Noto Sans Thai;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+}
+.btn_register2{
+    position: absolute;
+    font-size: 30px;
+    margin-left: -60px;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 8px;
+    padding: 25px 70px;
+    border: none;
+    color: white;
+    background: linear-gradient(177deg, #0BB64C 0%, #27D96B 100%);
+    cursor: pointer;
+    width: 500px;
+    line-height: 16px;
+    height: 68px;
+    flex-shrink: 0;
+    text-decoration: none;
+}
+.text-contact{
+    position: absolute;
+    color: #6E7788;
+    margin-top: 100px;
+    margin-left: 70px;
+    font-family: Noto Sans Thai;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 11px; /* 50% */
+}
+.phone{
+    margin-top: 90px;
+    margin-left: 400px;
+    width: 40.03px;
+    height: 40.03px;
+    flex-shrink: 0;
+}
+.contact{
+    width: 1140px;
+    height: 67px;
+    flex-shrink: 0;
+}
+.contact-name{
+    color: #3138A0;
+    font-family: Noto Sans Thai;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px; /* 58.333% */
+    margin-top: -30px;
+    margin-left: 500px;
+}
